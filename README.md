@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-2+ years of experience in designing and developing scalable and highly available software­-​as­-​a­​service applications using Java stack, php stack.  I am always open in working with new tech stack. Following are my current tech stack.
+2+ years of experience in designing and developing scalable and highly available software­-​as­-​a­​service applications using Java/Spring stack, MERN stack, LAMP stack.  I am always open in working with new tech stack. Following are my current tech stack.
 
 Tech Stack:
 
-- Backend: Java8, Spring MVC, Spring Boot, Hibernate, Restful Services, Microservices, PHP 7, Laravel
-- Frontend: HTML5, CSS3, JavaScript, TypeScript, Jquery, React
+- Backend: Java8, Spring MVC, Spring Boot, Hibernate, Restful Services, Microservices, PHP 7, Laravel, NodeJS, Express, GraphQL
+- Frontend: HTML5, CSS3, JavaScript, TypeScript, Jquery, ReactJS, 
 - Database: Oracle Sql, MySql, PostgreSQL, MongoDB
 - Build tools: Maven, Gradle
 - Servers: Tomcat, Apache
