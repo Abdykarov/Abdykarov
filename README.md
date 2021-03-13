@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-2+ years of experience in designing and developing scalable and highly available software­-​as­-​a­​service applications using Java/Spring stack, MERN stack, LAMP stack.  I am always open in working with new tech stack. Following are my current tech stack.
+1 year of experience in designing and developing scalable and highly available software­-​as­-​a­​service applications using Java/Spring stack, MERN stack, LAMP stack.  I am always open in working with new tech stack. Following are my current tech stack.
 
 Tech Stack:
 
