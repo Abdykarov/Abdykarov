@@ -4,8 +4,9 @@
 
 Tech Stack:
 
-- Backend: Java8, Spring MVC, Spring Boot, Hibernate, Restful Services, Microservices, PHP 7, Laravel, NodeJS, Express, GraphQL
+- Backend: Java8, Spring MVC, Spring Boot, Hibernate, Restful Services, Microservices, PHP 7, Laravel, NodeJS, Express, GraphQL, C/C++, C#, .NET, ASP.NET, Rust
 - Frontend: HTML5, CSS3, JavaScript, TypeScript, Jquery, ReactJS, 
+- Testing: JUnit, Mockito, MSTest
 - Database: Oracle Sql, MySql, PostgreSQL, MongoDB
 - Build tools: Maven, Gradle
 - Servers: Tomcat, Apache
