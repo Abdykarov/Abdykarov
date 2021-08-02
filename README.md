@@ -1,19 +1,19 @@
 ### Hi there 👋
 
-1 year of experience in designing and developing scalable and highly available software­-​as­-​a­​service applications using Java/Spring stack, MERN stack, LAMP stack.  I am always open in working with new tech stack. Following are my current tech stack.
+half year of experience in designing and developing scalable and highly available software­-​as­-​a­​service applications using Java/Spring stack. I am always open in working with new tech stack. Following are my current tech stack.
 
 Tech Stack:
 
-- Backend: Java8, Spring MVC, Spring Boot, Hibernate, Restful Services, Microservices, PHP 7, Laravel, NodeJS, Express, GraphQL, C/C++, C#, .NET, ASP.NET, Rust
+- Backend: Java8, Spring MVC, Spring Boot, Hibernate, Restful Services, Microservices
 - Frontend: HTML5, CSS3, JavaScript, TypeScript, Jquery, ReactJS, 
-- Testing: JUnit, Mockito, MSTest
-- Database: Oracle Sql, MySql, PostgreSQL, MongoDB
-- Build tools: Maven, Gradle
-- Servers: Tomcat, Apache
+- Testing: JUnit, Mockito
+- Database: MySql, PostgreSQL
+- Build tools: Maven
+- Servers: Tomcat
 - Version Control: Git
-- IDE: Intellij IDEA, VS Code, Eclipse, Sublime text, Vim
+- IDE: Intellij IDEA, Vim
 - Operating System: Linux ( Arch, Ubuntu, Debian experience ), Windows
-- Project Management: Scrum
+- Project Management: Scrum, Kanban
 
 Soft Skills:
 
