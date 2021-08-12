@@ -1,23 +1,23 @@
 ### Hi there 👋
 
-half year of experience in designing and developing scalable and highly available software­-​as­-​a­​service applications using Java/Spring stack. I am always open in working with new tech stack. Following are my current tech stack.
+I'm currently working at a company Karlín IT Group as Software-Engineer.
+
+I have experience in designing and developing scalable and highly available software­-​as­-​a­​service applications using Java/Spring stack. I am always open in working with new tech stack. Following are my current tech stack.
 
 Tech Stack:
 
-- Backend: Java8, Spring MVC, Spring Boot, Hibernate, Restful Services, Microservices
-- Frontend: HTML5, CSS3, JavaScript, TypeScript, Jquery, ReactJS, 
-- Testing: JUnit, Mockito
-- Database: MySql, PostgreSQL
-- Build tools: Maven
-- Servers: Tomcat
-- Version Control: Git
-- IDE: Intellij IDEA, Vim
-- Operating System: Linux ( Arch, Ubuntu, Debian experience ), Windows
-- Project Management: Scrum, Kanban
-
-Soft Skills:
-
-- Problem Solving, TeamWork, Communication
+Backend: Java, Spring Framework, Swagger, C#/.NET, Restful Services, Microservices
+Frontend: HTML5, CSS3, JavaScript, TypeScript, Jquery, ReactJS,
+Testing: JUnit, Mockito, Selenium testing
+Database: MySql, PostgreSQL, Redis, MongoDb
+Build tools: Maven, Gradle
+Servers: Tomcat, Nginx, Apache
+Version Control: Git, github, gitlab
+IDE: Intellij IDEA, Vim, VSCode
+Operating System: Linux: Arch, Ubuntu, Debian, Fedora experience, bash and python scripting
+Project Management: Scrum, Kanban
+Message brokers: Apache Kafka, rabbitMQ
+DevOps: docker, kubernates, deployment to the cloud services
 
 ### ⚙️ &nbsp;GitHub Analytics
 
