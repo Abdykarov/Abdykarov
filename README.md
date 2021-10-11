@@ -7,13 +7,14 @@ I have experience in designing and developing scalable and highly available soft
 
 Tech Stack:
 
-Backend: Java 8+ (Stream API, Collections, Concurrency, Lambdas), Spring Framework (boot, integration, security, data, batch, cloud, reactive), J2EE, REST API, SOAP, GraphQL, Microservices architecture, JDBC, JPA, Servlets, Thymeleaf, Mapstruct, Lombok, Swagger, Hibernate, Kafka, RabbitMq, Hadoop, JMS, PL/SQL, ElasticSearch, Alfresco system integration.
-Frontend: HTML5, CSS3, JavaScript, TypeScript, ReactJS
-Testing: JUnit, Mockito, Selenium testing
-Database: MySql, PostgreSQL, Redis, H2, Oracle DB
-Servers: Tomcat, Nginx
-Linux: Debian, Arch, Fedora, Bash/Python scripting
-DevOps: docker, kubernates, Liquibase/Flyway, Gradle/Maven, Jenkins/Buddy, AWS, EC2, S3 storage
+- Backend: Java 8+ (Stream API, Collections, Concurrency, Lambdas), Spring Framework (boot, integration, security, data, batch, cloud, reactive), J2EE, REST API
+- SOAP, GraphQL, Microservices architecture, JDBC, JPA, Servlets, Thymeleaf, Mapstruct, Lombok, Swagger, Hibernate, Kafka, RabbitMq, Hadoop, JMS, PL/SQL, ElasticSearch, Alfresco system integration.
+- Frontend: HTML5, CSS3, JavaScript, TypeScript, ReactJS
+- Testing: JUnit, Mockito, Selenium testing
+- Database: MySql, PostgreSQL, Redis, H2, Oracle DB
+- Servers: Tomcat, Nginx
+- Linux: Debian, Arch, Fedora, Bash/Python scripting
+- DevOps: docker, kubernates, Liquibase/Flyway, Gradle/Maven, Jenkins/Buddy, AWS, EC2, S3 storage
 
 ### ⚙️ &nbsp;GitHub Analytics
 
