@@ -7,18 +7,13 @@ I have experience in designing and developing scalable and highly available soft
 
 Tech Stack:
 
-- Backend: Java, Spring Framework, Swagger, C#/.NET, Restful Services, Microservices
-- Frontend: HTML5, CSS3, JavaScript, TypeScript, Jquery, ReactJS, 
-- Testing: JUnit, Mockito, Selenium testing
-- Database: MySql, PostgreSQL, Redis, MongoDb
-- Build tools: Maven, Gradle
-- Servers: Tomcat, Apache, Nginx
-- Version Control: Git, Github, Gitlab
-- IDE: Intellij IDEA, VS Code, Eclipse, Sublime text, Vim
-- Operating System: Linux: Arch, Ubuntu, Debian experience
-- Project Management: Scrum, Kanban
-- Message brokers: Apache Kafka, rabbitMQ
-- DevOps: Docker, Kubernates, Deployment to the cloud services
+Backend: Java 8+ (Stream API, Collections, Concurrency, Lambdas), Spring Framework (boot, integration, security, data, batch, cloud, reactive), J2EE, REST API, SOAP, GraphQL, Microservices architecture, JDBC, JPA, Servlets, Thymeleaf, Mapstruct, Lombok, Swagger, Hibernate, Kafka, RabbitMq, Hadoop, JMS, PL/SQL, ElasticSearch, Alfresco system integration.
+Frontend: HTML5, CSS3, JavaScript, TypeScript, ReactJS
+Testing: JUnit, Mockito, Selenium testing
+Database: MySql, PostgreSQL, Redis, H2, Oracle DB
+Servers: Tomcat, Nginx
+Linux: Debian, Arch, Fedora, Bash/Python scripting
+DevOps: docker, kubernates, Liquibase/Flyway, Gradle/Maven, Jenkins/Buddy, AWS, EC2, S3 storage
 
 ### ⚙️ &nbsp;GitHub Analytics
 
