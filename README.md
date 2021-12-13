@@ -1,9 +1,4 @@
-### Hi there 👋
-<a href="https://www.linkedin.com/in/abdykili/">My LinkedIn profile</a>
 
-I'm currently working at a company Lundegaard as Java Junior Developer.
-
-I have experience in designing and developing scalable and highly available software­-​as­-​a­​service applications using Java/Spring stack. I am always open in working with new tech stack. Following are my current tech stack.
 
 Tech Stack:
 
